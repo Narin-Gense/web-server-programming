@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Week 01</title>
+</head>
+<body style="background-color: lightblue;">
+  <div style="text-align: center;">
+    <h1>나의 취미</h1>
+  </div>
+  <h3>게임이 좋은 청년(게임 친구 구해요)</h3>
+  <ul>
+    <li>리그 오브 레전드</li>
+    <li>메이플스토리</li>
+    <li>Dead by Daylight</li>
+    <li>각종 스팀게임</li>
+  </ul>
+  <h3>릴스중독</h3>
+  <ul>
+    <li>아기고양이, 강아지 릴스</li>
+    <li>여행 브이로그</li>
+  </ul>
+  <div>
+    <a href="https://github.com/Narin-Gense/web-server-programming"
+       target="_blank">
+      <img src="https://images.unsplash.com/photo-1732551553196-9951993723bb?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/ width="500">
+    </a>
+  </div>
+  
+</body>
+</html>
